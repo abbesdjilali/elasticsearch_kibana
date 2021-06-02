@@ -1,6 +1,6 @@
 # Elasticsearch project
 
-## You needs 
+## You need
 - ##### DOCKER INSTALLED
 
 ## Run APP
